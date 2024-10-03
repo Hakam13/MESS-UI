@@ -1,0 +1,49 @@
+{
+  "name": "JVT-EMS-Trial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mantine/carousel": "^7.12.1",
+    "@mantine/charts": "^7.12.1",
+    "@mantine/core": "^7.12.1",
+    "@mantine/dates": "^7.12.1",
+    "@mantine/hooks": "^7.12.1",
+    "@mantine/modals": "^7.12.1",
+    "@mantine/notifications": "^7.12.1",
+    "@tabler/icons-react": "^3.2.0",
+    "dayjs": "^1.11.10",
+    "echarts": "^5.5.1",
+    "embla-carousel-react": "^7.1.0",
+    "express": "^4.18.2",
+    "framer-motion": "^11.2.4",
+    "jotai": "^2.6.5",
+    "lodash-es": "^4.17.21",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "next": "^14.2.12",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "^2.12.6",
+    "socket.io-client": "^4.7.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.2",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8.4.31",
+    "postcss-preset-mantine": "1.14.4",
+    "postcss-simple-vars": "^7.0.1",
+    "typescript": "5.4.5"
+  },
+  "author": "kufayeka"
+}

@@ -1,0 +1,9 @@
+.root{
+    border-top-right-radius: var(--mantine-radius-xl);
+    border-bottom-right-radius: var(--mantine-radius-xl);
+    padding-left: 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+

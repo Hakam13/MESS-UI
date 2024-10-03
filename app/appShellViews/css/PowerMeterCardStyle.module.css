@@ -1,0 +1,9 @@
+.card{
+    border-top: 1px solid dodgerblue;
+    border-bottom: 3px solid dodgerblue;
+}
+
+.cardSmall{
+    border-top: 1px dashed dodgerblue;
+    border-bottom: 1px dashed dodgerblue;
+}
